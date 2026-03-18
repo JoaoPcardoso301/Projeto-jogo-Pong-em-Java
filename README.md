@@ -12,7 +12,7 @@ Este projeto foi criado com o objetivo de praticar conceitos de lógica de progr
 
 ## Tecnologias utilizadas
 
-- Java
+- JavaScript
 - HTML
 - CSS
 
@@ -24,8 +24,3 @@ Este projeto foi criado com o objetivo de praticar conceitos de lógica de progr
 
 ## Como executar
 abrir o arquivo 'index.html' em seu navegador.
-
-
-1. Compile o projeto:
-```bash
-javac NomeDoArquivo.java
